@@ -1,0 +1,7 @@
+Site Ana Luísa Storymaker (versão Apple)
+
+Páginas: index.html (Home), sobre.html, servicos.html, portfolio.html, contato.html
+Pastas: css/, js/, img/ (precisam ficar junto das páginas)
+
+Cloudflare Pages: Workers e Pages > seu projeto > Criar nova implantação > envie esta pasta (ou o .zip).
+Hostinger: Gerenciador de Arquivos > public_html > envie o conteúdo do .zip (index.html fica direto em public_html).
